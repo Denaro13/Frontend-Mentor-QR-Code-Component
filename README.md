@@ -28,7 +28,7 @@ This challenge helped me to understand more about the concept of flexbox propert
 
 ### Continued development
 
-For future project and challenges I am working on mastering the use of frameworks that will help in advance in the field of front-end developent and also work on creating responsive web design.
+For future project and challenges I am working on mastering the use of frameworks that will help me advance in the field of front-end developent and also work on creating responsive web design.
 
 I also to intend to utilize the css grid properties in upcoming projects.
 
